@@ -10,10 +10,7 @@ We build practical software and automations that are fast to ship, easy to maint
 - DevOps foundations (deployment, observability, hardening)
 
 ## Featured projects
-> Update these links to match your pinned repos.
-- Project 1 — what it does, who it’s for
-- Project 2 — what it does, who it’s for
-- Project 3 — what it does, who it’s for
+> [https://github.com/Scottech-software/angellozan.github.io](https://scottech.software)
 
 ## Stack we like
 - Ruby / Rails
