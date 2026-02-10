@@ -1,4 +1,3 @@
-# Scottech Software
 We build practical software and automations that are fast to ship, easy to maintain, and safe to operate.
 
 ## What we do
@@ -10,7 +9,8 @@ We build practical software and automations that are fast to ship, easy to maint
 ## Featured projects
 > Update these links to match your pinned repos.
 - Project 1 — what it does, who it’s for
-Repo:
+- Project 2 — what it does, who it’s for
+- Project 3 — what it does, who it’s for
 
 ## Stack we like
 - Ruby / Rails
@@ -34,4 +34,4 @@ If you have a project idea, a repo you want improved, or an automation you’d l
 
 ## Security
 If you find a security issue, please report it privately:
-- Email: <security@yourdomain.com>
+- **Email:** https://scottech.software/contact
