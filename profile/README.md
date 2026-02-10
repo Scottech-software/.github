@@ -1,3 +1,6 @@
+[![Logo](https://github.com/Scottech-software/.github/blob/main/images/logo.png)](https://scottech.software)
+
+# Scottech Software
 We build practical software and automations that are fast to ship, easy to maintain, and safe to operate.
 
 ## What we do
