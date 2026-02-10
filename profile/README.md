@@ -1,4 +1,4 @@
-[![Logo](https://github.com/Scottech-software/.github/blob/main/images/logo.png)](https://scottech.software)
+[![Logo](https://stock.adobe.com/search?k=bot)](https://scottech.software)
 
 # Scottech Software
 We build practical software and automations that are fast to ship, easy to maintain, and safe to operate.
