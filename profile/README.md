@@ -1,4 +1,4 @@
-[![Logo](https://stock.adobe.com/search?k=bot)](https://scottech.software)
+[![Logo](https://getvoip.com/uploads/State-of-Chatbots.png)](https://scottech.software)
 
 # Scottech Software
 We build practical software and automations that are fast to ship, easy to maintain, and safe to operate.
