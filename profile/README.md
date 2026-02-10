@@ -11,9 +11,9 @@ We build practical software and automations that are fast to ship, easy to maint
 
 ## Featured projects
 > Update these links to match your pinned repos.
-- Project 1 — what it does, who it’s for
-- Project 2 — what it does, who it’s for
-- Project 3 — what it does, who it’s for
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
+- [Project 3](https://github.com/yourusername/project3)
 
 ## Stack we like
 - Ruby / Rails
@@ -38,3 +38,5 @@ If you have a project idea, a repo you want improved, or an automation you’d l
 ## Security
 If you find a security issue, please report it privately:
 - **Email:** https://scottech.software/contact
+
+Your previous response was invalid for PR creation: file README.md not in allowed list.
