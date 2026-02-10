@@ -1,12 +1,37 @@
-## Hi there 👋
+# Scottech Software
+We build practical software and automations that are fast to ship, easy to maintain, and safe to operate.
 
-<!--
+## What we do
+- Product engineering (web apps, internal tools, integrations)
+- Automation & agentic workflows (bots, digests, PR helpers, monitoring)
+- Data + APIs (clean interfaces, reliable pipelines)
+- DevOps foundations (deployment, observability, hardening)
 
-**Here are some ideas to get you started:**
+## Featured projects
+> Update these links to match your pinned repos.
+- Project 1 — what it does, who it’s for
+Repo:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Stack we like
+- Ruby / Rails
+- Node.js / TypeScript
+- PostgreSQL
+- Linux
+- Containers when it helps (Docker/Compose)
+
+## How we work
+- Ship small, iterate quickly
+- Prefer boring, proven tech
+- Measure reliability (timeouts, retries, observability)
+- Secure by default (least privilege, secrets hygiene, minimal exposure)
+
+## Collaboration
+If you have a project idea, a repo you want improved, or an automation you’d like built, open an issue with:
+- What you want
+- Who it’s for
+- Constraints (timeline, budget, hosting)
+- Links/screenshots/logs (if relevant)
+
+## Security
+If you find a security issue, please report it privately:
+- Email: <security@yourdomain.com>
